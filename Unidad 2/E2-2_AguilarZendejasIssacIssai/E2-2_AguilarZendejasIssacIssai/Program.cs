@@ -11,10 +11,12 @@ namespace E2_2_AguilarZendejasIssacIssai
     {
         static void Main(string[] args)
         {
+            int x=0;
             Fibonacci Fibo = new Fibonacci();
             Fibo.Interactiva();
-            Console.ReadLine();
-            Fibo.Recursivo();
+            Console.ReadLine();            
+            Fibo.Recursivo(x);
+            Fibo.Recursivo_1();
             Console.ReadKey();
         }
     }
@@ -45,22 +47,31 @@ namespace E2_2_AguilarZendejasIssacIssai
               
             } while (Respuesta != "No");            
         }
-        public void Recursivo()
+        public int Recursivo(int b)
+        {
+            if (b < 2)
+            {
+                return b;
+            }
+            else
+            {
+                return (Recursivo(b - 1) + Recursivo(b - 2));
+            }                    
+        }
+        public void Recursivo_1()
         {
             Console.WriteLine("Clase Recursivo");
             Console.Write("Cuantos numeros fibonacci quieres: ");
             int x = Convert.ToInt16(Console.ReadLine());
-            for (int i = 0; i < x; i++)
+            while (Ultima_1 <= x)
             {
-                Fibo_1 = Primera_1;
-                Primera_1 = Ultima_1;
-                Ultima_1 = Primera_1 + Fibo_1;
-                Console.WriteLine(Primera_1);
+                Console.WriteLine(Recursivo(Ultima_1));
+                Ultima_1++;
             }
             Stopwatch Tiempo = new Stopwatch();
             Tiempo.Start();
             Tiempo.Stop();
-            Console.WriteLine("\nEl tiempo de ejecucion es de: {0}", Tiempo.Elapsed.TotalMilliseconds.ToString());          
+            Console.WriteLine("\nEl tiempo de ejecucion es de: {0}", Tiempo.Elapsed.TotalMilliseconds.ToString());
         }
     }
 }
