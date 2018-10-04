@@ -1,0 +1,6 @@
+C:\Users\issacissai\Desktop\Estructura de datos\PE-2_AguilarZendejasIssacIssai\PE-2_AguilarZendejasIssacIssai\bin\Debug\PE-2_AguilarZendejasIssacIssai.exe.config
+C:\Users\issacissai\Desktop\Estructura de datos\PE-2_AguilarZendejasIssacIssai\PE-2_AguilarZendejasIssacIssai\bin\Debug\PE-2_AguilarZendejasIssacIssai.exe
+C:\Users\issacissai\Desktop\Estructura de datos\PE-2_AguilarZendejasIssacIssai\PE-2_AguilarZendejasIssacIssai\bin\Debug\PE-2_AguilarZendejasIssacIssai.pdb
+C:\Users\issacissai\Desktop\Estructura de datos\PE-2_AguilarZendejasIssacIssai\PE-2_AguilarZendejasIssacIssai\obj\Debug\PE-2_AguilarZendejasIssacIssai.csproj.CoreCompileInputs.cache
+C:\Users\issacissai\Desktop\Estructura de datos\PE-2_AguilarZendejasIssacIssai\PE-2_AguilarZendejasIssacIssai\obj\Debug\PE-2_AguilarZendejasIssacIssai.exe
+C:\Users\issacissai\Desktop\Estructura de datos\PE-2_AguilarZendejasIssacIssai\PE-2_AguilarZendejasIssacIssai\obj\Debug\PE-2_AguilarZendejasIssacIssai.pdb
