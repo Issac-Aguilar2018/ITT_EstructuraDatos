@@ -1,0 +1,7 @@
+C:\Users\issacissai\Desktop\Estructura de datos\Unidad 3\E3-1_AguilarZendejasIssacIssai\E3-1_AguilarZendejasIssacIssai\bin\Debug\E3-1_AguilarZendejasIssacIssai.exe.config
+C:\Users\issacissai\Desktop\Estructura de datos\Unidad 3\E3-1_AguilarZendejasIssacIssai\E3-1_AguilarZendejasIssacIssai\bin\Debug\E3-1_AguilarZendejasIssacIssai.exe
+C:\Users\issacissai\Desktop\Estructura de datos\Unidad 3\E3-1_AguilarZendejasIssacIssai\E3-1_AguilarZendejasIssacIssai\bin\Debug\E3-1_AguilarZendejasIssacIssai.pdb
+C:\Users\issacissai\Desktop\Estructura de datos\Unidad 3\E3-1_AguilarZendejasIssacIssai\E3-1_AguilarZendejasIssacIssai\obj\Debug\E3-1_AguilarZendejasIssacIssai.csprojResolveAssemblyReference.cache
+C:\Users\issacissai\Desktop\Estructura de datos\Unidad 3\E3-1_AguilarZendejasIssacIssai\E3-1_AguilarZendejasIssacIssai\obj\Debug\E3-1_AguilarZendejasIssacIssai.csproj.CoreCompileInputs.cache
+C:\Users\issacissai\Desktop\Estructura de datos\Unidad 3\E3-1_AguilarZendejasIssacIssai\E3-1_AguilarZendejasIssacIssai\obj\Debug\E3-1_AguilarZendejasIssacIssai.exe
+C:\Users\issacissai\Desktop\Estructura de datos\Unidad 3\E3-1_AguilarZendejasIssacIssai\E3-1_AguilarZendejasIssacIssai\obj\Debug\E3-1_AguilarZendejasIssacIssai.pdb
