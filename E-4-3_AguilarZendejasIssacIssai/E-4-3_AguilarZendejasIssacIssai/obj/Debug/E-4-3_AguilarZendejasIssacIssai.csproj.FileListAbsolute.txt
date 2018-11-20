@@ -1,0 +1,7 @@
+C:\Users\issacissai\Desktop\E-4-3_AguilarZendejasIssacIssai\E-4-3_AguilarZendejasIssacIssai\obj\Debug\E-4-3_AguilarZendejasIssacIssai.csprojResolveAssemblyReference.cache
+C:\Users\issacissai\Desktop\E-4-3_AguilarZendejasIssacIssai\E-4-3_AguilarZendejasIssacIssai\obj\Debug\E-4-3_AguilarZendejasIssacIssai.csproj.CoreCompileInputs.cache
+C:\Users\issacissai\Desktop\E-4-3_AguilarZendejasIssacIssai\E-4-3_AguilarZendejasIssacIssai\bin\Debug\E-4-3_AguilarZendejasIssacIssai.exe.config
+C:\Users\issacissai\Desktop\E-4-3_AguilarZendejasIssacIssai\E-4-3_AguilarZendejasIssacIssai\bin\Debug\E-4-3_AguilarZendejasIssacIssai.exe
+C:\Users\issacissai\Desktop\E-4-3_AguilarZendejasIssacIssai\E-4-3_AguilarZendejasIssacIssai\bin\Debug\E-4-3_AguilarZendejasIssacIssai.pdb
+C:\Users\issacissai\Desktop\E-4-3_AguilarZendejasIssacIssai\E-4-3_AguilarZendejasIssacIssai\obj\Debug\E-4-3_AguilarZendejasIssacIssai.exe
+C:\Users\issacissai\Desktop\E-4-3_AguilarZendejasIssacIssai\E-4-3_AguilarZendejasIssacIssai\obj\Debug\E-4-3_AguilarZendejasIssacIssai.pdb
