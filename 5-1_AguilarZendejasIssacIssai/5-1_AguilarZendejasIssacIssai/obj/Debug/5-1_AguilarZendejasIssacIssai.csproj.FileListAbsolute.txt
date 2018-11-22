@@ -1,0 +1,7 @@
+C:\Users\issacissai\source\repos\5-1_AguilarZendejasIssacIssai\5-1_AguilarZendejasIssacIssai\bin\Debug\5-1_AguilarZendejasIssacIssai.exe.config
+C:\Users\issacissai\source\repos\5-1_AguilarZendejasIssacIssai\5-1_AguilarZendejasIssacIssai\bin\Debug\5-1_AguilarZendejasIssacIssai.exe
+C:\Users\issacissai\source\repos\5-1_AguilarZendejasIssacIssai\5-1_AguilarZendejasIssacIssai\bin\Debug\5-1_AguilarZendejasIssacIssai.pdb
+C:\Users\issacissai\source\repos\5-1_AguilarZendejasIssacIssai\5-1_AguilarZendejasIssacIssai\obj\Debug\5-1_AguilarZendejasIssacIssai.csprojResolveAssemblyReference.cache
+C:\Users\issacissai\source\repos\5-1_AguilarZendejasIssacIssai\5-1_AguilarZendejasIssacIssai\obj\Debug\5-1_AguilarZendejasIssacIssai.csproj.CoreCompileInputs.cache
+C:\Users\issacissai\source\repos\5-1_AguilarZendejasIssacIssai\5-1_AguilarZendejasIssacIssai\obj\Debug\5-1_AguilarZendejasIssacIssai.exe
+C:\Users\issacissai\source\repos\5-1_AguilarZendejasIssacIssai\5-1_AguilarZendejasIssacIssai\obj\Debug\5-1_AguilarZendejasIssacIssai.pdb
