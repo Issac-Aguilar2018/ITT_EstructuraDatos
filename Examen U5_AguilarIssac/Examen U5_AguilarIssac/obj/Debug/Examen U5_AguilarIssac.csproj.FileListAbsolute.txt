@@ -1,0 +1,7 @@
+C:\Users\issacissai\Desktop\Estructura de datos\Examen U5_AguilarIssac\Examen U5_AguilarIssac\obj\Debug\Examen U5_AguilarIssac.csprojResolveAssemblyReference.cache
+C:\Users\issacissai\Desktop\Estructura de datos\Examen U5_AguilarIssac\Examen U5_AguilarIssac\obj\Debug\Examen U5_AguilarIssac.csproj.CoreCompileInputs.cache
+C:\Users\issacissai\Desktop\Estructura de datos\Examen U5_AguilarIssac\Examen U5_AguilarIssac\bin\Debug\Examen U5_AguilarIssac.exe.config
+C:\Users\issacissai\Desktop\Estructura de datos\Examen U5_AguilarIssac\Examen U5_AguilarIssac\bin\Debug\Examen U5_AguilarIssac.exe
+C:\Users\issacissai\Desktop\Estructura de datos\Examen U5_AguilarIssac\Examen U5_AguilarIssac\bin\Debug\Examen U5_AguilarIssac.pdb
+C:\Users\issacissai\Desktop\Estructura de datos\Examen U5_AguilarIssac\Examen U5_AguilarIssac\obj\Debug\Examen U5_AguilarIssac.exe
+C:\Users\issacissai\Desktop\Estructura de datos\Examen U5_AguilarIssac\Examen U5_AguilarIssac\obj\Debug\Examen U5_AguilarIssac.pdb
